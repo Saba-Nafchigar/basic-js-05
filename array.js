@@ -1,14 +1,14 @@
 let x = ["turaj",120,16.2,"armin",true,null,false]
-// console.log(x);
-// console.log(x[0]); //"turaj"
-// console.log(x[1]); //120
-// console.log(x[2]); //16.2
-// console.log(x[3]); //"armin"
-// console.log(x[4]); //true
-// console.log(x[5]); //null
-// console.log(x[6]); //false
-// console.log(x[7]); //undeifined
-// console.log(typeof x); // object
+ console.log(x);
+ console.log(x[0]); //"turaj"
+ console.log(x[1]); //120
+ console.log(x[2]); //16.2
+ console.log(x[3]); //"armin"
+ console.log(x[4]); //true
+ console.log(x[5]); //null
+ console.log(x[6]); //false
+ console.log(x[7]); //undeifined
+ console.log(typeof x); // object
 //  prototype : میشه وقتی از یک ارایه لاگ میگیرید ببینه چه متد ها و پراپرتی هایی داره یا ازش استفاده میکنه!
 
 let myArray= ["saba" , "Nafchi gar" , 31 , true, 52.2]
